@@ -1,4 +1,4 @@
-step 2
+
 # simplecrypt
 
 **Building A Simple Cryptocurrency Blockchain In Node.js**
