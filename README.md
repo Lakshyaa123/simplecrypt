@@ -10,6 +10,9 @@ This repository provides a step-by-step guide to building a basic cryptocurrency
 **Hashing:** The use of cryptographic hashing to ensure data integrity.  
 **Consensus Mechanism:** The algorithm for validating transactions and maintaining the blockchain's consistency.
 
+## Output
+
+![Blockchain Output](output.png)
 **Blockchain: A Simple Explanation**  
 Imagine a digital ledger where transactions are recorded as blocks. Each block is linked to the previous one, creating a chain of transactions⛓️. This chain is distributed across many computers, making it difficult to tamper with. This is the basic concept of blockchain.
 
